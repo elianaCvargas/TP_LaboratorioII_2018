@@ -33,3 +33,14 @@ C:\Users\CarlaEliana\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalcula
 C:\Users\CarlaEliana\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
 C:\Users\CarlaEliana\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
 C:\Users\CarlaEliana\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\cevargas\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache

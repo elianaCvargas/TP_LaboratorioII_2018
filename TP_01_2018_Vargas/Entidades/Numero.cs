@@ -26,10 +26,9 @@ namespace Entidades
                 //La propiedad SetNumero asignará un valor al atributo numero, previa validación.
                 //En este lugar será el único en todo el código que llame al método ValidarNumero.
                 double numeroDoble = ValidarNumero(value);
-                if (numeroDoble != 0)
-                {
+                if(numeroDoble != 0)
                     this.numero = numeroDoble;
-                }
+                
 
             }
         }
@@ -85,21 +84,24 @@ namespace Entidades
         }
         public string DecimalBinario(string numero)
         {
-            double numDoble = Convert.ToDouble(numero);
-            return DecimalBinario(numDoble);
+
+            double numDoble = 0;
+            if (Double.TryParse(numero, out numDoble))
+                return DecimalBinario(numDoble);
+            return "Valor incorrecto";   
 
         }
         public double ValidarNumero(string numero)
         { 
 //            ValidarNumero comprobará que el valor recibido sea numérico, y lo retornará en
 //            formato double. Caso contrario, retornará 0.
-            double numeroDoble  ;
+            double numeroDoble = 0;
             bool isNumero = double.TryParse(numero, out numeroDoble);
             if (isNumero)
             {
                 return numeroDoble;
             }
-            else return 0;
+            else return numeroDoble;
         }
 
         public static double operator +(Numero  numUno, Numero numDos)

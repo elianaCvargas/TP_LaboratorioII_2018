@@ -60,8 +60,9 @@ namespace MiCalculadora
 
         private  void btnOperar_Click(object sender, EventArgs e)
         {
-            this.lblResultado.Text =  (Operar(this.NumeroDos.Text, this.NumeroDos.Text, this.cmbOperador.Text)).ToString();           
+            this.lblResultado.Text =  (Operar(this.NumeroUno.Text, this.NumeroDos.Text, this.cmbOperador.Text)).ToString();           
         }
+
         private static double Operar(string numeroUno, string numeroDos, string operador)
         {
             Calculadora calculadora =  new Calculadora();
